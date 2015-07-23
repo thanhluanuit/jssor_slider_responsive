@@ -1,2 +1,1 @@
-# jssor_slider_responsive
-Jssor Slider http://www.jssor.com/
+Nearby Image Partial Visible Slider
